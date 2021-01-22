@@ -1,0 +1,20 @@
+{
+  "name": "stockScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.17",
+    "x-ray": "^2.3.4"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
